@@ -30,11 +30,43 @@ export const TIPOS_INCIDENTE = [
 export const ESTADOS_INCIDENTE = ['Reportado', 'En proceso', 'Resuelto'];
 
 export const UBICACIONES = [
-  'Bloque A', 'Bloque B', 'Bloque C', 'Bloque D',
-  'Biblioteca', 'Cafetería', 'Canchas deportivas',
-  'Laboratorios', 'Parqueadero', 'Auditorium',
-  'Rectoría', 'Bienestar Universitario', 'Entrada principal',
-  'Otro lugar',
+  // --- SEDE EL PORVENIR ---
+  'Bloque 1 - Sede Porvenir',
+  'Bloque 2 - Sede Porvenir',
+  'Bloque 3 - Sede Porvenir',
+  'Bloque 4 - Sede Porvenir',
+  'Bloque 5 - Sede Porvenir',
+  'Bloque 6 - Sede Porvenir',
+  'Bloque 7 - Sede Porvenir',
+  'Biblioteca - Sede Porvenir',
+  'Cafetería - Sede Porvenir',
+  'Canchas deportivas - Sede Porvenir',
+  'Laboratorios - Sede Porvenir',
+  'Parqueadero - Sede Porvenir',
+  'Auditorio Ángel Cuniberti - Sede Porvenir',
+  'Rectoría - Sede Porvenir',
+  'Bienestar Universitario - Sede Porvenir',
+  'Entrada principal - Sede Porvenir',
+
+  // --- SEDE CENTRO-IDEMA (Estructura y Comunes) ---
+  'Bloque A - Sede Centro-Idema',
+  'Bloque B - Sede Centro-Idema',
+  'Bloque C - Sede Centro-Idema',
+  'Laboratorios - Sede Centro-Idema',
+  'Consultorio Jurídico - Sede Centro-Idema',
+  'Auditorio - Sede Centro-Idema',
+  'Cafetería - Sede Centro-Idema',
+  'Entrada principal - Sede Centro-Idema',
+
+  // --- SALAS DE SISTEMAS Y TECNOLOGÍA - SEDE CENTRO ---
+  'Sala UniTIC - Sede Centro-Idema',
+  'Sala de Sistemas 1 - Sede Centro-Idema',
+  'Sala de Sistemas 2 - Sede Centro-Idema',
+  'Sala de Sistemas (Distancia) - Sede Centro-Idema',
+
+  // --- GENERALES / OTROS ---
+  'Sede Macagual (CIMAZ)',
+  'Otro lugar'
 ];
 
 // ─── Subida de imágenes ────────────────────────────────────────────────────────
